@@ -1,0 +1,15 @@
+
+@font-face{
+		font-family:font1;
+        src: url(HelveticaNeueLTPro-BdCn.otf);
+}
+
+@font-face{
+		font-family:font2;
+        src: url(MyriadPro-Regular.otf);
+}
+
+@font-face{
+		font-family:font3;
+        src: url(MyriadPro-Bold.otf);
+}
